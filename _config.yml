@@ -1,0 +1,16 @@
+
+title: "Harshit Jain — Robotics Engineer"
+description: "Perception + Control @ CMU | End‑to‑end robotic systems (vision → control → hardware)"
+url: ""  # add your custom domain later (e.g., https://harshitjain.dev)
+author: "Harshit Jain"
+theme: null
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+# Social handles (optional)
+twitter_username: ""
+github_username: "harshit-jain"
+linkedin_username: ""
+# Navigation (simple links rendered on the home page)
+resume_url: "/assets/resume.pdf"
