@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
 # Social handles (optional)
 twitter_username: ""
-github_username: "harshit-jain"
-linkedin_username: ""
+github_username: "harshitjain524"
+linkedin_username: "https://www.linkedin.com/in/harshitjain-mech/"
 # Navigation (simple links rendered on the home page)
-resume_url: "/assets/resume.pdf"
+resume_url: "https://drive.google.com/file/d/1ulroce82jj-ERl0dNlYD6AxssunbteG6/view?usp=sharing"
